@@ -1,0 +1,23 @@
+{
+  "package_name": "experimentlens",
+  "package_version": "0.1.0",
+  "specification_version": "1.0",
+  "supported_python": [
+    "3.10",
+    "3.11",
+    "3.12"
+  ],
+  "dependency_constraints": "backend/constraints.txt",
+  "artifacts": [
+    "experimentlens-0.1.0-py3-none-any.whl",
+    "experimentlens-0.1.0.tar.gz"
+  ],
+  "commands": {
+    "test": "python -m pytest backend/tests -q",
+    "lint": "python -m ruff check backend/src backend/tests",
+    "type_check": "python -m mypy backend/src",
+    "build": "python -m build --wheel --sdist",
+    "dependency_audit": "python -m pip install pip-audit && python -m pip_audit --local"
+  },
+  "source_revision": null
+}
