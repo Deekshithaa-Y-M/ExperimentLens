@@ -1,7 +1,5 @@
 # 🧪 A/B Test Statistical Significance Calculator
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live_Site-success?style=for-the-badge)](https://deekshithaa-y-m.github.io/ab-test-calculator/)
-
 A robust, web-based utility designed to calculate the statistical significance of A/B tests. Product managers, marketers, and data analysts can seamlessly input visitor and conversion data for Control and Variant groups to quickly determine conversion rates, uplift, p-values, and confidence intervals.
 
 
