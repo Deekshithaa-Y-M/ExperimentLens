@@ -580,3 +580,4 @@ edge-case behavior are defined here or in a versioned amendment.
 | Blocked | A structural or data-quality failure prevents confirmatory interpretation. |
 | Practically weak | Significant, but point-estimate magnitude is below the applicable MDE. |
 | Practical impact uncertain | Point estimate reaches MDE, but its interval does not support that magnitude. |
+
