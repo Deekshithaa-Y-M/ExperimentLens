@@ -27,7 +27,7 @@ Where:
 
 ## 🚀 Usage
 
-1. **Launch:** Open the [live demo](https://deekshithaa-y-m.github.io/ab-test-calculator/) or open `index.html` locally in any web browser.
+1. **Launch:** Open the [live demo](https://deekshithaa-y-m.github.io/ExperimentLens/) or open `index.html` locally in any web browser.
 2. **Input Data:** Enter your experiment values for both the Control (A) and Variant (B) groups:
    - *Visitors* (Total sample size)
    - *Conversions* (Successful actions)
